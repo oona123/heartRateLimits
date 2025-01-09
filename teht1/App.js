@@ -34,7 +34,8 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     marginTop: 50,
-    marginLeft: 10
+    marginLeft: 10,
+    backgroundColor: '#FFFFFF'
   },
   field: {
     marginBottom: 10
